@@ -1,5 +1,7 @@
 # cobalt
 
+![cover](cover.jpg)
+
 A google collab notebooks to generate audio reactive videos based on Stylegan2 models
 
 

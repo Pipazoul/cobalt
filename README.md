@@ -4,6 +4,18 @@
 
 A google collab notebooks to generate audio reactive videos based on Stylegan2 models
 
+Author : [@sioudayassin](https://twitter.com/SioudaYassin)
+
+The latent generation code is from [@robertluxemburg](https://twitter.com/robertluxemburg)
+
+License : [CC BY-NC 4.0 ](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)
+
+
+**Main Libs used :**
+- [StyleGan2](https://github.com/NVlabs/stylegan)
+- [Spleeter](https://github.com/deezer/spleeter) 
+
+
 
 Audio Reactive Generator [![Audio Reactive Generator](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pipazoul/cobalt/blob/main/stylegan2_audio_reactive_video.ipynb)
 

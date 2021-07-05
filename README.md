@@ -1,8 +1,9 @@
 # cobalt
 
-A set of google collab notebooks to generate audio reactive videos based on Stylegan2 models
+A google collab notebooks to generate audio reactive videos based on Stylegan2 models
 
-[![Audio Reactive Generator](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pipazoul/cobalt/blob/main/stylegan2_audio_reactive_video.ipynb)
+
+Audio Reactive Generator [![Audio Reactive Generator](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pipazoul/cobalt/blob/main/stylegan2_audio_reactive_video.ipynb)
 
 ## **READ CAREFULLY BEFORE LAUNCHING**
 
